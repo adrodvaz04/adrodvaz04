@@ -1,7 +1,7 @@
 
  ## :seedling: About Me :seedling:
 
-Hi, I'm Adrian Rodriguez Vazquez! I'm a third year student at Northeastern University studying computer science, with a minor in environmental and sustainability sciences.
+Hi, I'm Adrian Rodriguez Vazquez! I'm a third year student at Northeastern University studying computer science, concentrating in software.
 
 Outside the classroom, you'll probably find me practicing taekwondo (3rd degree black belt in ITF!). I also spend my time listening to albums 🎧, playing videogames 🎮 (currently playing The Binding of Isaac and Risk of Rain 2), and collecting funky socks 🧦.
 
@@ -17,7 +17,8 @@ If you'd like to see the projects I've accumulated through coursework at Northea
 
 ## My Values :milky_way:
 
-Growing up in Puerto Rico, I've seen firsthand the disparity between access to resources in our education system and how that impacts students. I came into Northeastern's CS program with no prior experience; I had never taken any AP or computer science course, let alone CSA/P. Higher education in the United States was breaking the mold, unexpected and therefore not very supported. Now, further into my computer science journey, I've connected with awesome professors and faculty that gave me the help and resources I needed to succeed, as well as have my own outlets to continue developing my skills. Moving forward, I want to continue paving a path for people like me in higher education, foster connection by authenticity and approachability rather than transactionality, and develop impact through tech for inclusivity!
+Growing up in Puerto Rico, I've seen firsthand the disparity between access to resources in our education system and how that impacts students. I came into Northeastern's CS program with no prior experience; I had never taken any AP or computer science course. Higher education in the United States was breaking the mold, unexpected and therefore not very supported. Now, further into my computer science journey, I've connected with awesome professors and faculty, and companies that have given me the resources I needed to succeed, as well as have my own outlets to continue developing my skills. Moving forward, I want to continue paving a path for people like me in higher education, foster connection by authenticity and approachability rather than transactionality, and develop impact through tech for inclusivity!
+
 
 
 
