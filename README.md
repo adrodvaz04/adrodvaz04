@@ -1,9 +1,9 @@
 
  ## :seedling: About Me :seedling:
 
-Hi, I'm Adrian Rodriguez Vazquez! I'm a third year student at Northeastern University studying computer science, concentrating in software.
+Hi, I'm Adrian Rodriguez Vazquez! I'm a fourth year student at Northeastern University studying computer science, concentrating in software.
 
-Outside the classroom, you'll probably find me practicing taekwondo (3rd degree black belt in ITF!). I also spend my time listening to albums 🎧, playing videogames 🎮 (currently playing The Binding of Isaac and Risk of Rain 2), and collecting funky socks 🧦.
+Outside the classroom, you'll probably find me practicing taekwondo (3rd degree black belt in ITF!). I also spend my time listening to albums 🎧, playing videogames 🎮 (currently playing Slay the Spire and Risk of Rain 2), and collecting funky socks 🧦.
 
 Feel free to take a look at some of the things I'm working on, what I care about, and more!
 
@@ -11,7 +11,7 @@ Feel free to take a look at some of the things I'm working on, what I care about
 
 1. [NUSci Web Development Team 🌐](https://github.com/Northeastern-Science-Magazine): Junior developer for website, working with MongoDB, React, Node.js, and JavaScript.
 
-2. [Scout Studio w/ SuperPower Mentors :rocket:](https://github.com/Scout-NU/Superpower-Mentors): Junior Developer, working on creating an overhauled website MVP in React/Typescript.
+2. [Scout Studio w/ SuperPower Mentors :rocket:](https://github.com/Scout-NU/Superpower-Mentors): Junior Developer, worked on creating an overhauled website MVP in React/Typescript.
 
 If you'd like to see the projects I've accumulated through coursework at Northeastern, feel free to contact me!
 
